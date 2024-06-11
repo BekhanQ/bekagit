@@ -1,3 +1,5 @@
 git init - инициализация
 git remote origin - ccылку на репозиторий
-git add . -
+git add . -добавление
+git commit -m 'название' - точка сохранения
+git push origin master\main - отправка в ГитХАБ
