@@ -1,0 +1,3 @@
+git init - инициализация
+git remote origin - ccылку на репозиторий
+git add . -
